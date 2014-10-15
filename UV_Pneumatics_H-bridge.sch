@@ -12770,6 +12770,8 @@ general purpose rectifier, 1 A</description>
 3 - GND
 2 - up / ~down
 1 - enable</text>
+<text x="142.24" y="7.62" size="2.54" layer="94" font="vector">Author: Charles B. Malloch, PhD</text>
+<text x="231.14" y="-12.7" size="2.54" layer="94" font="vector">1.0</text>
 </plain>
 <instances>
 <instance part="IC1" gate="A" x="78.74" y="58.42"/>
